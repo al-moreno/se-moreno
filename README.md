@@ -15,11 +15,11 @@ This site will provide a general idea of what I am able to accomplish with the u
 
 ## Deployment: 
 
-GitHub Repo: https://github.com/al-moreno/Portfolio
+GitHub Repo: https://github.com/al-moreno/se-moreno
 
 GitHub Pages: https://al-moreno.github.io/Portfolio/
 
-![picture](./assets/images/Personal_Site.png)
+![picture](./assets/images/1.png)
 
  
 ## Installation:
