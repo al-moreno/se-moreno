@@ -17,7 +17,7 @@ This site will provide a general idea of what I am able to accomplish with the u
 
 GitHub Repo: https://github.com/al-moreno/se-moreno
 
-GitHub Pages: https://al-moreno.github.io/Portfolio/
+GitHub Pages: https://al-moreno.github.io/se-moreno/
 
 ![picture](./assets/images/1.png)
 
